@@ -1,0 +1,117 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  margin: 0;
+}
+*{
+  box-sizing:border-box;
+}
+body{
+  margin-top:0px;
+  margin-right:0px;
+  margin-bottom:0px;
+  margin-left:0px;
+  font-family:-apple-system, BlinkMacSystemFont, "Helvetica Neue", Helvetica, Roboto, Arial, "PingFang SC", "Hiragino Sans GB", "Microsoft Yahei", "Microsoft Jhenghei", sans-serif;
+}
+.logo path{
+  pointer-events:none;
+  fill:none;
+  stroke-linecap:round;
+  stroke-width:7;
+  stroke:rgb(255, 255, 255);
+}
+.wechat-group img{
+  max-width:220px;
+  height:auto;
+  border-top-left-radius:8px;
+  border-top-right-radius:8px;
+  border-bottom-right-radius:8px;
+  border-bottom-left-radius:8px;
+  margin-top:0px;
+  margin-right:auto;
+  margin-bottom:0px;
+  margin-left:auto;
+  width:100%;
+}
+.welcome-img img{
+  width:100%;
+}
+#header:not(.sticky-header) #logo a{
+  opacity:0;
+  pointer-events:none;
+}
+.c23576{
+  font-size:52px;
+  letter-spacing:10px;
+  word-spacing:5px;
+}
+.c23595{
+  color:#888;
+  letter-spacing:10px;
+  font-size:18px;
+}
+.c23613{
+  max-width:600px;
+  line-height:1.8;
+  color:#AAA;
+}
+.c23537{
+  background-image:url('https://coscdn.htmlpage.cn/html-template/one-page/images/page/1.jpg');
+  background-position:top center;
+}
+.c23890{
+  max-width:700px;
+  font-size:40px;
+}
+.c23910{
+  max-width:800px;
+}
+.c23928{
+  font-size:16px;
+}
+.c23978{
+  max-width:1000px;
+}
+.c24677{
+  max-width:900px;
+}
+.c25978{
+  max-width:900px;
+}
+.c26043{
+  background:url('https://coscdn.htmlpage.cn/html-template/images/services/main-bg.jpg') center center no-repeat;
+  background-size:cover;
+}
+.c26578{
+  position:relative;
+  top:-3px;
+}
+.c26553{
+  max-width:900px;
+}
+.c26622{
+  background-image:url('https://coscdn.htmlpage.cn/html-template/one-page/images/page/testimonials.jpg');
+  padding:150px 0;
+}
+.c28043{
+  line-height:1.7;
+}
+.c28125{
+  line-height:1.7;
+}
+.c28035{
+  font-size:16px;
+  line-height:1.7;
+}
+.c28001{
+  background-color:#F5F5F5;
+}
+.c28623{
+  display:block;
+  font-size:13px;
+  margin-top:15px;
+}
+.c28380{
+  max-width:850px;
+}
